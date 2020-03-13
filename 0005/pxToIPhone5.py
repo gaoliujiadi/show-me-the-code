@@ -1,5 +1,7 @@
 #pxToIPhone5.py
 #640*1360
+#我认为小于iPhone5像素即可，不必全都一样
+
 from PIL import Image
 import glob
 import os.path as op
