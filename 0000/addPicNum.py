@@ -1,4 +1,4 @@
-#000_addPicNum.py
+#addPicNum.py
 
 from PIL import Image,ImageDraw,ImageFont
 
