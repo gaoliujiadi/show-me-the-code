@@ -1,6 +1,5 @@
 #writeXls.py
 import xlwt
-import os
 path = "students.xls"
 book = xlwt.Workbook(encoding="utf-8",style_compression=0)#初始化
 sheet = book.add_sheet('students',cell_overwrite_ok=True)
